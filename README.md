@@ -1,6 +1,11 @@
 # Reverse-Engineearing
   软件逆向——这里是我最早的逆向作品，大概在2012年左右
+<<<<<<< HEAD
       AltStreamDump	解密ntfs数据流
+=======
+  
+      AltStreamDump 解密ntfs数据流
+>>>>>>> e6b10bf7625b07c6dffa90e6c3c92e9d9550f3a9
       
       memuse		内存信息获取
       
