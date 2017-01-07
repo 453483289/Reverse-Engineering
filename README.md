@@ -18,3 +18,6 @@
       专用地址转换器 转换迅雷/FLASHGET/飞速/QQ旋风等地址互转
       
 	  su			自己实现android su，越过superapk等权限管理
+
+	  android_server	ida android调试器端源码
+	  
