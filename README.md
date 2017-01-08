@@ -24,3 +24,5 @@
 	  
 	  CydiaSubstrate	逆向android cydia substrate得到源码
 	  
+	  调试笔记			个人总结的调试逆向经验
+	  
