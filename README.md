@@ -30,3 +30,5 @@
 	  
 	  DexDump			自己实现的简易android脱壳插件，基于cydia substrate
 	  
+=======
+有兴趣讨论逆向请加QQ群：560017652
