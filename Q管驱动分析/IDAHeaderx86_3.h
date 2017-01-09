@@ -84,6 +84,6 @@ BOOLEAN __stdcall MmIsAddressValid(PVOID VirtualAddress);
 BOOLEAN __stdcall __imp_MmIsAddressValid(PVOID VirtualAddress);
 NTSTATUS __stdcall ExUuidCreate(UUID *Uuid);
 NTSTATUS __stdcall __imp_ExUuidCreate(UUID *Uuid);
-
-
+NTSTATUS __stdcall PsReferenceProcessFilePointer(PEPROCESS Process,PVOID *pFilePointer);
+NTSTATUS __stdcall __imp_PsReferenceProcessFilePointer(PEPROCESS Process,PVOID *pFilePointer);
 

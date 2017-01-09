@@ -1611,7 +1611,7 @@ typedef struct _IRP
         } AsynchronousParameters;
         LARGE_INTEGER AllocationSize;
     } Overlay;
-    __volatile PDRIVER_CANCEL CancelRoutine;
+    PDRIVER_CANCEL CancelRoutine;
     PVOID UserBuffer;
     union 
 	{
