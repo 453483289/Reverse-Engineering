@@ -28,3 +28,5 @@
 	  
 	  调试笔记			个人总结的调试逆向经验
 	  
+	  DexDump			自己实现的简易android脱壳插件，基于cydia substrate
+	  
