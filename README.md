@@ -20,6 +20,8 @@
 	  
 	##15-16年作品
 
+	  Q管驱动分析		在研究竞品对抗时对腾讯管家重要驱动进行分析
+	
 	  android_server	ida android调试器端源码
 	  
 	  CydiaSubstrate	逆向android cydia substrate得到源码
